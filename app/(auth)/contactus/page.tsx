@@ -23,7 +23,7 @@ import Footer from '@/components/ui/footer'
                 <div className="flex flex-wrap -mx-3">
                   <div className="w-full px-3">
                     <div className="btn px-0 text-white bg-red-600 hover:bg-red-700 w-full relative flex items-center">
-                      <span className="h-6 flex items-center border-r border-white border-opacity-25 mr-4">WORLD HEADQUARTERS</span>
+                      <span className="h-6 flex items-center border-r border-white border-opacity-25 mr-4">REGISTERED OFFICE</span>
                     </div>
                   </div>
                 </div>
