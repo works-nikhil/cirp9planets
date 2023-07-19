@@ -70,7 +70,7 @@ import Footer from '@/components/ui/footer'
               PVC boards have a wide range of applications, ensuring that they
               meet your specific needs with unmatched quality and reliability.<br></br><br></br>
               To read more about our products: Please click
-              <a href="http://www.9planets.co.in/" class="text-blue-500 bg-transparent no-underline">&nbsp;<u>here</u></a>
+              <a href="http://www.9planets.co.in/" className="text-blue-500 bg-transparent no-underline">&nbsp;<u>here</u></a>
             </h5>
           </div>
         </div>
