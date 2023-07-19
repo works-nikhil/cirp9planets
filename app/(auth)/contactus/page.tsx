@@ -54,6 +54,10 @@ import Footer from '@/components/ui/footer'
                   </div>
                 </div>
 
+                <div class="text-center">
+                  <p class="text-xl mb-4 mt-8">Contact us at <a href="mailto:cirp.9planetsproductspvtltd@gmail.com" class="text-blue-500 underline">cirp.9planetsproductspvtltd@gmail.com</a></p>
+                </div>
+
             </div>
   
           </div>
