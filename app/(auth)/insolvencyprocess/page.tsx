@@ -159,7 +159,7 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">10. Form_G</p>
+                  <p className="mr-4">11. Form_G</p>
                 </div>
                 <div>
                   <a href="/pdfs/Form G Expression of Interest.pdf" download>
