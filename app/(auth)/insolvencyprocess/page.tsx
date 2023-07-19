@@ -101,10 +101,10 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">7. Form_F</p>
+                  <p className="mr-4">7. Public Announcement</p>
                 </div>
                 <div>
-                  <a href="/pdfs/Form_F.docx" download>
+                  <a href="/pdfs/Public Announcement Form A.pdf" download>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
                       Download File
                     </button>
@@ -114,10 +114,10 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">8. Form_F</p>
+                  <p className="mr-4">8. CIRP Admission Order</p>
                 </div>
                 <div>
-                  <a href="/pdfs/Form_F.docx" download>
+                  <a href="/pdfs/Admission Order.pdf" download>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
                       Download File
                     </button>
@@ -127,10 +127,23 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">9. Form_F</p>
+                  <p className="mr-4">9. List of Creditors 19 July, 2023</p>
                 </div>
                 <div>
-                  <a href="/pdfs/Form_F.docx" download>
+                  <a href="/pdfs/List of Creditors 19 July, 2023.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+              
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">10. Financial Statement 31 March 2023</p>
+                </div>
+                <div>
+                  <a href="/pdfs/Balance Sheet March 2023.pdf" download>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
                       Download File
                     </button>
@@ -140,156 +153,16 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">10. Form_F</p>
+                  <p className="mr-4">10. Form_G</p>
                 </div>
                 <div>
-                  <a href="/pdfs/Form_F.docx" download>
+                  <a href="/pdfs/Form G Expression of Interest.pdf" download>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
                       Download File
                     </button>
                   </a>
                 </div>
               </div>
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">11. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">12. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">13. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">14. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">15. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">16. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">17. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">18. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">19. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
-
-              <div className="flex items-center mb-2">
-                <div className="flex-1">
-                  <p className="mr-4">20. Form_F</p>
-                </div>
-                <div>
-                  <a href="/pdfs/Form_F.docx" download>
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
-                      Download File
-                    </button>
-                  </a>
-                </div>
-              </div>
-
 
               {/* Repeat the above pattern for other files */}
             </div>
