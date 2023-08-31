@@ -171,6 +171,22 @@ const InsolvencyProcess = () => {
               </div>
 
               {/* Repeat the above pattern for other files */}
+
+
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">12. List of Creditor 31.08.2023.pdf</p>
+                </div>
+                <div>
+                  <a href="/pdfs/12. List of Creditor 31.08.2023.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
+
             </div>
           </div>
         </div>
