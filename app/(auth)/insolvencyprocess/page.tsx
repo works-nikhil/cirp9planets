@@ -186,6 +186,33 @@ const InsolvencyProcess = () => {
                 </div>
               </div>
 
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">13. 9planets Signed</p>
+                </div>
+                <div>
+                  <a href="/pdfs/9planets Signed.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
+
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">14. List of Creditor 10.10.2023</p>
+                </div>
+                <div>
+                  <a href="/pdfs/14. List of Creditor 10.10.2023.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
 
             </div>
           </div>
